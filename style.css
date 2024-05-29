@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.meal-wrapper {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    background: #fff;
+    text-align: center;
+}
+
+
+
+.title{
+    font-size: 3.5rem;
+    color: orangered;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+
+.search-btn{
+    color: white;
+    background-color: orangered;
+    border-top-right-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    width: 6rem;
+    height: 4rem;
+    border: none;
+}
+
+.search-btn:hover{
+    background-color: rgb(150, 77, 50);
+
+}
+.search-bar{
+    height: 4rem;
+}
+
+
+/* Item */
+.food-item{
+    margin-top: 100px;
+}
+.title-2{
+    font-size: 4rem;
+    color: rgb(163, 143, 250);
+    margin-bottom: 90px;
+    justify-content: center;
+}
